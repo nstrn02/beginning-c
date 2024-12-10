@@ -2,5 +2,5 @@
 #include <string.h>
 
 int main(void) {
-    printf("Nastaran Hajeb\n");
+    printf("Nastaran Hajeb");
 }

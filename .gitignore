@@ -1,1 +1,3 @@
-exe
+# Executables
+*.exe
+*.out

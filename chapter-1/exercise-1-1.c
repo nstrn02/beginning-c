@@ -2,5 +2,6 @@
 #include <string.h>
 
 int main(void) {
-    printf("Nastaran Hajeb");
+    printf("Nastaran Hajeb\n");
+    printf("My First exercise\n");
 }

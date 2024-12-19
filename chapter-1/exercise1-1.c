@@ -2,7 +2,6 @@
 
 int main(void)
 {
-    printf("Nastaran\n");
-    printf("Abadan");
+    printf("Nastaran\nAbadan\n");
     return 0;
 }

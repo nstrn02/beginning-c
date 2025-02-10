@@ -15,7 +15,7 @@ int main(void)
     scanf("%ld", &inches);
 
     yards = inches / (inches_per_foot * feet_per_yard);
-    feet = (inches % (inches_per_foot * feet_per_yard)) / inches_per_foot; 
+    feet = (double)(inches % (inches_per_foot * feet_per_yard)) / inches_per_foot; 
     inches = inches % inches_per_foot; 
 
     printf("distance in inches is: %ld and in feet is: %ld and in yards: %ld", inches, feet, yards );
